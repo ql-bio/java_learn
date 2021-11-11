@@ -24,6 +24,7 @@ springboot: https://www.bilibili.com/video/BV1Cv411p7cQ?spm_id_from=333.999.0.0
 数据库：
 mysql：
 （基础+高级）：https://www.bilibili.com/video/BV12b411K7Zu?from=search&seid=4471394231237361561&spm_id_from=333.337.0.0
+
 （高级，如果基础还行，就不用看上面那个 基础+高级 视频了）https://www.bilibili.com/video/BV1KW411u7vy?from=search&seid=4471394231237361561&spm_id_from=333.337.0.0
 redis：https://www.bilibili.com/video/BV1CJ411m7Gc?from=search&seid=11833796506941757859&spm_id_from=333.337.0.0
  
